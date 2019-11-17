@@ -1,0 +1,453 @@
+{
+  "components": {}, 
+  "config": {
+    "name": "swatch", 
+    "no-docs": false, 
+    "no-drill-index": false, 
+    "no-flashes": false, 
+    "no-layer-index": false, 
+    "rev": "first", 
+    "style-layout": "default", 
+    "units": "mm"
+  }, 
+  "distances": {
+    "from-pour-to": {
+      "drill": 0.5, 
+      "outline": 0.4, 
+      "pad": 1, 
+      "route": 0.1
+    }, 
+    "soldermask": {
+      "circle-buffer": 0.05, 
+      "path-scale": 1.05, 
+      "rect-buffer": 0.05
+    }, 
+    "solderpaste": {
+      "circle-buffer": -0.1, 
+      "path-scale": 0.9, 
+      "rect-buffer": -0.1
+    }
+  }, 
+  "documentation": {
+    "board-details": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "3mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "3.3mm", 
+      "location": [
+        91, 
+        -35
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "SDVX Controller\nTokiLabs"
+    }
+  }, 
+  "drill-index": {
+    "location": [
+      81.0, 
+      -41.0
+    ]
+  }, 
+  "drills": {}, 
+  "files": {
+    "routing-data": "swatch_routing.json", 
+    "routing-svg": "swatch.svg"
+  }, 
+  "gerber": {
+    "decimals": 6, 
+    "digits": 6, 
+    "min-segment-length": 0.05, 
+    "steps-per-segment": 100
+  }, 
+  "layer-control": {
+    "assembly": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "conductor": {
+      "hide": false, 
+      "lock": false, 
+      "pads": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }, 
+      "place": true, 
+      "pours": {
+        "hide": false, 
+        "lock": true, 
+        "place": true
+      }, 
+      "routing": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }
+    }, 
+    "dimensions": {
+      "hide": true, 
+      "lock": true, 
+      "place": true
+    }, 
+    "documentation": {
+      "hide": true, 
+      "lock": false, 
+      "place": false
+    }, 
+    "drills": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "origin": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "outline": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "placement": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "silkscreen": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "soldermask": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "solderpaste": {
+      "hide": true, 
+      "lock": true, 
+      "place": true
+    }
+  }, 
+  "outline": {
+    "shape": {
+      "height": 45, 
+      "radii": {
+        "bl": 0.3, 
+        "br": 0.3, 
+        "tl": 0.3, 
+        "tr": 0.3
+      }, 
+      "type": "rect", 
+      "width": 50
+    }
+  }, 
+  "physical": {
+    "stackup": [
+      "top", 
+      "bottom"
+    ]
+  }, 
+  "shapes": {
+    "diag-mask": {
+      "footprint": "diag-mask", 
+      "layer": "top", 
+      "location": [
+        0.704655, 
+        8.052879
+      ], 
+      "scale": 1.0, 
+      "show": true
+    }, 
+    "diag-silk": {
+      "footprint": "diag-silk", 
+      "layer": "top", 
+      "location": [
+        6.56222, 
+        3.989241
+      ], 
+      "scale": 1.0, 
+      "show": true
+    }, 
+    "grid-toki-mask": {
+      "footprint": "toki-mask", 
+      "layer": "top", 
+      "location": [
+        15.217344, 
+        4.192348
+      ], 
+      "scale": 0.7, 
+      "show": true
+    }, 
+    "jlc": {
+      "footprint": "jlc", 
+      "layer": "bottom", 
+      "location": [
+        23.812509, 
+        0
+      ], 
+      "rotate": -90, 
+      "scale": 0.3, 
+      "show": true
+    }, 
+    "pcb-swatch": {
+      "footprint": "pcb-swatch", 
+      "layer": "top", 
+      "location": [
+        -2.15152, 
+        2.967356
+      ], 
+      "rotate": -30, 
+      "scale": 1.0, 
+      "show": true
+    }, 
+    "toki-composite-copper": {
+      "footprint": "toki-copper", 
+      "layer": "top", 
+      "location": [
+        20.5, 
+        -14.754165
+      ], 
+      "scale": 0.6, 
+      "show": true
+    }, 
+    "toki-composite-mask": {
+      "footprint": "toki-mask", 
+      "layer": "top", 
+      "location": [
+        20.2, 
+        -14.554165
+      ], 
+      "scale": 0.6, 
+      "show": true
+    }, 
+    "toki-composite-silk": {
+      "footprint": "toki", 
+      "layer": "top", 
+      "location": [
+        19.9, 
+        -14.354165
+      ], 
+      "scale": 0.6, 
+      "show": true
+    }, 
+    "toki-copper-nomask": {
+      "footprint": "toki-copper", 
+      "layer": "top", 
+      "location": [
+        -20, 
+        -14.354165
+      ], 
+      "scale": 0.6, 
+      "show": true
+    }, 
+    "toki-coppermask1": {
+      "footprint": "toki-copper", 
+      "layer": "top", 
+      "location": [
+        -10, 
+        -14.354165
+      ], 
+      "scale": 0.6, 
+      "show": true
+    }, 
+    "toki-coppermask2": {
+      "footprint": "toki-mask", 
+      "layer": "top", 
+      "location": [
+        -10, 
+        -14.354165
+      ], 
+      "scale": 0.6, 
+      "show": true
+    }, 
+    "toki-mask": {
+      "footprint": "toki-mask", 
+      "layer": "top", 
+      "location": [
+        0, 
+        -14.354165
+      ], 
+      "scale": 0.6, 
+      "show": true
+    }, 
+    "toki-silk": {
+      "footprint": "toki", 
+      "layer": "top", 
+      "location": [
+        10, 
+        -14.354165
+      ], 
+      "scale": 0.6, 
+      "show": true
+    }, 
+    "tokilabs": {
+      "footprint": "tokilabs", 
+      "layer": "top", 
+      "location": [
+        -14.862036, 
+        16.033376
+      ], 
+      "rotate": -30, 
+      "scale": 0.7, 
+      "show": true
+    }, 
+    "triangle-mask-large": {
+      "footprint": "triangle-mask", 
+      "layer": "bottom", 
+      "location": [
+        -18.123562, 
+        7.318943
+      ], 
+      "scale": 1.0, 
+      "show": true
+    }, 
+    "triangle-mask-medium-1": {
+      "footprint": "triangle-mask", 
+      "layer": "bottom", 
+      "location": [
+        -9.065229, 
+        7.318943
+      ], 
+      "scale": 0.5, 
+      "show": true
+    }, 
+    "triangle-mask-medium-2": {
+      "footprint": "triangle-mask", 
+      "layer": "bottom", 
+      "location": [
+        -8.910412, 
+        14.47921
+      ], 
+      "scale": 0.5, 
+      "show": true
+    }, 
+    "triangle-mask-small-1": {
+      "footprint": "triangle-mask", 
+      "layer": "bottom", 
+      "location": [
+        -4.28745, 
+        14.47563
+      ], 
+      "scale": 0.1, 
+      "show": true
+    }, 
+    "triangle-mask-small-10": {
+      "footprint": "triangle-mask", 
+      "layer": "bottom", 
+      "location": [
+        9.352523, 
+        18.057816
+      ], 
+      "scale": 0.1, 
+      "show": true
+    }, 
+    "triangle-mask-small-11": {
+      "footprint": "triangle-mask", 
+      "layer": "bottom", 
+      "location": [
+        14.302667, 
+        18.053682
+      ], 
+      "scale": 0.1, 
+      "show": true
+    }, 
+    "triangle-mask-small-2": {
+      "footprint": "triangle-mask", 
+      "layer": "bottom", 
+      "location": [
+        -3.048584, 
+        18.055779
+      ], 
+      "scale": 0.1, 
+      "show": true
+    }, 
+    "triangle-mask-small-3": {
+      "footprint": "triangle-mask", 
+      "layer": "bottom", 
+      "location": [
+        1.915302, 
+        16.629265
+      ], 
+      "scale": 0.1, 
+      "show": true
+    }, 
+    "triangle-mask-small-4": {
+      "footprint": "triangle-mask", 
+      "layer": "bottom", 
+      "location": [
+        -1.812093, 
+        10.183093
+      ], 
+      "scale": 0.1, 
+      "show": true
+    }, 
+    "triangle-mask-small-5": {
+      "footprint": "triangle-mask", 
+      "layer": "bottom", 
+      "location": [
+        4.383335, 
+        15.191376
+      ], 
+      "scale": 0.1, 
+      "show": true
+    }, 
+    "triangle-mask-small-6": {
+      "footprint": "triangle-mask", 
+      "layer": "bottom", 
+      "location": [
+        1.903061, 
+        10.896516
+      ], 
+      "scale": 0.1, 
+      "show": true
+    }, 
+    "triangle-mask-small-7": {
+      "footprint": "triangle-mask", 
+      "layer": "bottom", 
+      "location": [
+        1.906456, 
+        18.044295
+      ], 
+      "scale": 0.1, 
+      "show": true
+    }, 
+    "triangle-mask-small-8": {
+      "footprint": "triangle-mask", 
+      "layer": "bottom", 
+      "location": [
+        -1.806086, 
+        11.615358
+      ], 
+      "scale": 0.1, 
+      "show": true
+    }, 
+    "triangle-mask-small-9": {
+      "footprint": "triangle-mask", 
+      "layer": "bottom", 
+      "location": [
+        8.103222, 
+        14.47099
+      ], 
+      "scale": 0.1, 
+      "show": true
+    }
+  }, 
+  "soldermask": {
+    "circle-buffer": 0.05, 
+    "path-scale": 1.05, 
+    "rect-buffer": 0.05
+  }, 
+  "solderpaste": {
+    "circle-buffer": -0.1, 
+    "path-scale": 0.9, 
+    "rect-buffer": -0.1
+  }, 
+  "vias": {
+    "default-via": "VIA"
+  }
+}

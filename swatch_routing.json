@@ -1,0 +1,715 @@
+{
+  "routes": {
+    "top": {
+      "00812e2e9": {
+        "stroke-width": 0.5, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 6.2,-22.354165 V 6.2824335"
+      }, 
+      "00eb020f5": {
+        "stroke-width": 1.0, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 23.56,6.2824335 -24.8,-21.63825"
+      }, 
+      "04f31a271": {
+        "stroke-width": 1.0, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -12.4,-22.354165 V 6.2824335"
+      }, 
+      "061493f11": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -7.44,-22.354165 V 6.2824335"
+      }, 
+      "0825c8bd0": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 16.12,6.2824335 24.8,1.2710333"
+      }, 
+      "08c423ce2": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -24.8,-5.8881665 3.72,-22.354165"
+      }, 
+      "0911fcfc2": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -24.8,5.5665335 23.56,-22.354165"
+      }, 
+      "096adb438": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -16.12,-22.354165 V 6.2824335"
+      }, 
+      "0d333b799": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -22.32,-22.354165 V 6.2824335"
+      }, 
+      "0f1a7fca4": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 24.8,-11.615465 6.2,-22.354165"
+      }, 
+      "126c3f872": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -11.16,6.2824335 -13.64,-7.8751"
+      }, 
+      "13e190b98": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -11.16,-22.354165 V 6.2824335"
+      }, 
+      "1450c8951": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -23.56,-22.354165 V 6.2824335"
+      }, 
+      "16be914e0": {
+        "stroke-width": 0.5, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 24.8,-0.16076656 -13.64,-22.354165"
+      }, 
+      "17248f44d": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 24.8,-13.047275 8.68,-22.354165"
+      }, 
+      "1c9de1012": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -2.48,-22.354165 V 6.2824335"
+      }, 
+      "1d8804025": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 11.16,6.2824335 13.64,-7.8751"
+      }, 
+      "1eefc7d92": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 8.68,6.2824335 -24.8,-13.047275"
+      }, 
+      "22971e3c1": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -3.72,-22.354165 V 6.2824335"
+      }, 
+      "231e6f041": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 6.2,6.2824335 -31,-17.8978985"
+      }, 
+      "246351771": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 18.6,6.2824335 24.8,2.7028334"
+      }, 
+      "2796a37d7": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 24.8,-17.342765 -8.68,-5.0114"
+      }, 
+      "28c5066d5": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 21.08,6.2824335 3.72,-2.1478"
+      }, 
+      "29be977df": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 6.2,6.2824335 18.6,-10.7387"
+      }, 
+      "2ac0cf4fd": {
+        "stroke-width": 1.0, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 1.24,6.2824335 24.8,-7.3199662"
+      }, 
+      "30f701473": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 9.92,-22.354165 V 6.2824335"
+      }, 
+      "34a259c76": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 23.56,-22.354165 V 6.2824335"
+      }, 
+      "371b605d7": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -24.8,1.2710333 16.12,-22.354165"
+      }, 
+      "37d07cc36": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 24.8,-20.206425 -3.72,-2.14774"
+      }, 
+      "384a7d752": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 24.8,5.5665335 -23.56,-22.354165"
+      }, 
+      "3a70403a2": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -6.2,6.2824335 31,-17.8978985"
+      }, 
+      "3ba6e06d4": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 11.16,-22.354165 V 6.2824335"
+      }, 
+      "3db0fb3ad": {
+        "stroke-width": 1.0, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -24.8,-7.3199662 1.24,-22.354165"
+      }, 
+      "46fb7f384": {
+        "stroke-width": 1.0882, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -24.42566,-22.010286 H 24.396721 V 6.2824185 H -24.42566 V -22.010286"
+      }, 
+      "474db2245": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -24.8,-10.183665 21.08,-12.1705"
+      }, 
+      "49f1fcfad": {
+        "stroke-width": 0.5, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -13.64,6.2824335 -24.8,-0.16076656"
+      }, 
+      "4ff9753c0": {
+        "stroke-width": 0.5, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 24.8,-14.479105 -13.64,-7.87506"
+      }, 
+      "506476411": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -24.8,4.1346335 21.08,-22.354165"
+      }, 
+      "51aea24b5": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -21.08,6.2824335 -3.72,-2.1478"
+      }, 
+      "53bbb2543": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -13.64,6.2824335 24.8,-15.910935"
+      }, 
+      "550ed02e9": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 16.12,-22.354165 V 6.2824335"
+      }, 
+      "59d0692bf": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -24.8,-17.342765 8.68,-5.0114"
+      }, 
+      "5a560b20f": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 2.48,-22.354165 V 6.2824335"
+      }, 
+      "5cfb7023e": {
+        "stroke-width": 0.5, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -11.16,6.2824335 24.8,-14.479105"
+      }, 
+      "5d5a02f57": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -18.6,6.2824335 24.8,-18.774595"
+      }, 
+      "5ec8fa493": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -4.96,-22.354165 V 6.2824335"
+      }, 
+      "61e08fc94": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 8.68,6.2824335 16.12,-9.3069"
+      }, 
+      "6356453a0": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -8.68,6.2824335 -16.12,-9.3069"
+      }, 
+      "641a78e51": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -24.8,-8.7517659 -1.24,-22.354165"
+      }, 
+      "648f34d84": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 22.32,-22.354165 V 6.2824335"
+      }, 
+      "6490aeedd": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 24.8,-3.0244665 -8.68,-22.354165"
+      }, 
+      "6609ee0a6": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 1.24,6.2824335 -24.8,-8.7517659"
+      }, 
+      "6752fd0e0": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 7.44,-22.354165 V 6.2824335"
+      }, 
+      "691c525fe": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 14.88,-22.354165 V 6.2824335"
+      }, 
+      "6bb0d497f": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -8.68,-22.354165 V 6.2824335"
+      }, 
+      "6f440c6f4": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 21.08,6.2824335 -24.8,-20.206425"
+      }, 
+      "6fd6c7488": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -21.08,6.2824335 24.8,-20.206425"
+      }, 
+      "7178460cc": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 3.72,-22.354165 V 6.2824335"
+      }, 
+      "785f3b383": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -24.8,-1.5926665 11.16,-22.354165"
+      }, 
+      "7a9168fef": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -1.24,-22.354165 V 6.2824335"
+      }, 
+      "83b2b0d24": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 24.8,2.7028334 -18.6,-22.354165"
+      }, 
+      "83b52b96a": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -24.8,-15.910935 11.16,-6.44323"
+      }, 
+      "841431584": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 24.8,-4.4562665 -6.2,-22.354165"
+      }, 
+      "84c1377b7": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 1.24,-22.354165 V 6.2824335"
+      }, 
+      "85003cc61": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 24.8,-18.774595 -6.2,-3.57957"
+      }, 
+      "86694eede": {
+        "stroke-width": 1.0, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 12.4,-22.354165 V 6.2824335"
+      }, 
+      "895717230": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 24.8,-8.7517659 1.24,-22.354165"
+      }, 
+      "8db1b6217": {
+        "stroke-width": 0.5, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 13.64,6.2824335 24.8,-0.16076656"
+      }, 
+      "8eaafd215": {
+        "stroke-width": 0.5, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -6.2,-22.354165 V 6.2824335"
+      }, 
+      "93eb235e6": {
+        "stroke-width": 1.0, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -23.56,6.2824335 24.8,-21.63825"
+      }, 
+      "95147dbd2": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -24.8,-13.047275 16.12,-9.30689"
+      }, 
+      "95be75577": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 24.8,-10.183665 3.72,-22.354165"
+      }, 
+      "97f016e06": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -24.8,-18.774595 6.2,-3.57957"
+      }, 
+      "9c48fbd85": {
+        "stroke-width": 0.5, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -24.8,-14.479105 13.64,-7.87506"
+      }, 
+      "a6135e723": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -19.84,-22.354165 V 6.2824335"
+      }, 
+      "a78cb0c63": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -24.8,-20.206425 3.72,-2.14774"
+      }, 
+      "a8791389a": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -23.56,6.2824335 -1.24,-0.7159"
+      }, 
+      "aa4fd2f25": {
+        "stroke-width": 1.0, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -1.24,6.2824335 -24.8,-7.3199662"
+      }, 
+      "ace60fa12": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -14.88,-22.354165 V 6.2824335"
+      }, 
+      "ad52330a7": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 23.56,6.2824335 1.24,-0.7159"
+      }, 
+      "adae7163d": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -3.72,6.2824335 -21.08,-12.1706"
+      }, 
+      "afff99480": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 18.6,6.2824335 -24.8,-18.774595"
+      }, 
+      "b04378dbb": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -18.6,6.2824335 -24.8,2.7028334"
+      }, 
+      "b24161c04": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 16.12,6.2824335 -24.8,-17.342765"
+      }, 
+      "b81b23af7": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -17.36,-22.354165 V 6.2824335"
+      }, 
+      "b8dd30705": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 13.64,-22.354165 V 6.2824335"
+      }, 
+      "bc69c30c1": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 24.8,4.1346335 -21.08,-22.354165"
+      }, 
+      "c503b107c": {
+        "stroke-width": 0.5, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -24.8,-0.16076656 13.64,-22.354165"
+      }, 
+      "c5fb07d13": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 24.8,-15.910935 -11.16,-6.44323"
+      }, 
+      "c65845532": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -21.08,-22.354165 V 6.2824335"
+      }, 
+      "c8826f379": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -24.8,-3.0244665 8.68,-22.354165"
+      }, 
+      "c9e17e73a": {
+        "stroke-width": 0.5, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -18.6,-22.354165 V 6.2824335"
+      }, 
+      "ca8c63c7b": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -13.64,-22.354165 V 6.2824335"
+      }, 
+      "d038085c1": {
+        "stroke-width": 0.5, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 18.6,-22.354165 V 6.2824335"
+      }, 
+      "d424b2e0e": {
+        "stroke-width": 1.0, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 24.8,-7.3199662 -1.24,-22.354165"
+      }, 
+      "d54626744": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 24.8,-1.5926665 -11.16,-22.354165"
+      }, 
+      "d71636273": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -16.12,6.2824335 -24.8,1.2710333"
+      }, 
+      "d90fb9dc3": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 13.64,6.2824335 -24.8,-15.910935"
+      }, 
+      "db66d3f44": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -1.24,6.2824335 24.8,-8.7517659"
+      }, 
+      "df8cb6d33": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 21.08,-22.354165 V 6.2824335"
+      }, 
+      "e38c37d15": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -3.72,6.2824335 24.8,-10.183665"
+      }, 
+      "e4e211ad1": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -16.12,6.2824335 24.8,-17.342765"
+      }, 
+      "e66f2f2a4": {
+        "stroke-width": 1.0, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 0,-22.354165 V 6.2824335"
+      }, 
+      "e66f32d90": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 17.36,-22.354165 V 6.2824335"
+      }, 
+      "e87497cfd": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -24.8,-4.4562665 6.2,-22.354165"
+      }, 
+      "ea90371e7": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -24.8,-11.615465 18.6,-10.7387"
+      }, 
+      "eb492b399": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -24.8,2.7028334 18.6,-22.354165"
+      }, 
+      "eda5e9d3c": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -8.68,6.2824335 24.8,-13.047275"
+      }, 
+      "eeb772cfd": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 3.72,6.2824335 21.08,-12.1706"
+      }, 
+      "f49db843c": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M -9.92,-22.354165 V 6.2824335"
+      }, 
+      "f526524e1": {
+        "stroke-width": 0.5, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 11.16,6.2824335 -24.8,-14.479105"
+      }, 
+      "f5385f541": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 3.72,6.2824335 -24.8,-10.183665"
+      }, 
+      "f5c59a031": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 24.8,1.2710333 -16.12,-22.354165"
+      }, 
+      "f63cca5ef": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 19.84,-22.354165 V 6.2824335"
+      }, 
+      "f92bbbf51": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 4.96,-22.354165 V 6.2824335"
+      }, 
+      "faf07b49f": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 24.8,-5.8881665 -3.72,-22.354165"
+      }, 
+      "fc678d019": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -6.2,6.2824335 -18.6,-10.7387"
+      }, 
+      "fc94a3351": {
+        "stroke-width": 0.1, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "M 8.68,-22.354165 V 6.2824335"
+      }
+    }
+  }, 
+  "vias": {}
+}

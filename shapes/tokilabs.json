@@ -1,0 +1,26 @@
+{
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "font-family": "Montserrat-Medium", 
+          "font-size": "5mm", 
+          "letter-spacing": "0.3mm", 
+          "line-height": "0mm", 
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "type": "text", 
+          "style": "fill",
+          "gerber-lp": "ddcdddddcdcd",
+          "value": "Tokilabs"
+        }
+      ]
+    }
+  }
+}
